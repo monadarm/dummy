@@ -1,5 +1,5 @@
 apiVersion: v2
-name: gpu-inference
-description: A simple inference service using GPU
+name: gpu-serv
+description: dummy service
 version: 0.1.0
 appVersion: "1.0"
